@@ -1,0 +1,59 @@
+{
+  "User": {
+    "name": "Warren Dean",
+    "email": "dean@nyu.edu",
+    "projects": [
+      {
+        "title": "With Broadax and Firebrand",
+        "description": "This is a description",
+        "tags": [
+          {
+            "name": "Atlantic Forest"
+          },
+          {
+            "name": "Environmental History"
+          }
+        ],
+        "category": "History",
+        "imageTitle": "Featured Image",
+        "source": "https://www.example.com/",
+        "url": "https://cnd.imaginerio.org/image-1.jpg",
+        "slides": [
+          {
+            "title": "Title of the slide",
+            "description": "Description of the slide",
+            "order": 1,
+            "size": "Medium",
+            "year": 1818,
+            "longitude": -43.18914483352785,
+            "latitude": -22.896216487308735,
+            "zoom": 16.20517641780579,
+            "bearing": 175.87998354956002,
+            "pitch": 32.482914224253186,
+            "selectedFeature": null,
+            "layers": [],
+            "basemap": {
+              "ssid": "2589170",
+              "title": "Planta da Cidade do S. Sebastião do Rio de Janeiro",
+              "firstYear": 1817,
+              "lastYear": 1821,
+              "longitude": -43.1810763343022,
+              "latitude": -22.9010009606826,
+              "creator": "Souto, P. S. F."
+            },
+            "opacity": 1,
+            "media": null,
+            "imageTitle": "Sample Image",
+            "source": "https://www.example.com/",
+            "url": "https://cnd.imaginerio.org/image-1.jpg",
+            "annotations": [
+              {
+                "feature": "{\"type\":\"Feature\",\"properties\":{\"title\":\"Parque do Mendanha\"},\"geometry\":{\"type\":\"Point\",\"coordinates\":[-43.456000046961684,-22.84524094246816]},\"id\":\"62145f786d1ade00567ca229\"}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
