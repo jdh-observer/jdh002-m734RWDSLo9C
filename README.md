@@ -1,6 +1,6 @@
 # imagineRio Narratives: A Map-based Writing App for Rio de Janeiro
 
-[![Binder](https://mybinder.org/v2/gh/imaginerio/narratives-jdh/main?filepath=narratives.ipynb](https://mybinder.org/v2/gh/jdh-observer/jdh002-m734RWDSLo9C/HEAD)
+[![Binder](https://mybinder.org/v2/gh/jdh-observer/jdh002-m734RWDSLo9C/HEAD)
 
 ## Abstract
 
