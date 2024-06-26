@@ -322,20 +322,34 @@ After selecting a narrative, the user will be redirected to the viewer interface
 <!-- #endregion -->
 
 ```python tags=["figure-videojuliana-*"]
-from IPython.display import HTML, display
+from IPython.display import VimeoVideo
+
 metadata={
-    "jdh":{
+    "jdh": {
         "module": "object",
         "object": {
-          "type": "video",
-          "source": [
-            "Short video of the narrative viewer."
-          ]
+            "type": "image",
+            "source": [
+                "Short video of the narrative viewer."
+            ]
         }
     }
 }
-display(HTML('<iframe width="640" height="400" src="https://www.youtube-nocookie.com/embed/8qdSeuBhy8E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'), metadata=metadata)
+
+# Vimeo
+display(VimeoVideo('968645483?h=435b421af9','100%','347'),
+        metadata=metadata)
 ```
+
+
+
+<iframe
+    width="100%"
+    height="347"
+    src="https://player.vimeo.com/video/968645483?h=435b421af9"
+    frameborder="0"
+    allowfullscreen
+></iframe>
 
 <!-- #region tags=["narrative"] -->
 ### Editor
