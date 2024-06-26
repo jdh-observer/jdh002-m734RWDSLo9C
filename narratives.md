@@ -340,17 +340,6 @@ metadata={
 display(VimeoVideo('968645483?h=435b421af9','100%','347'),
         metadata=metadata)
 ```
-
-
-
-<iframe
-    width="100%"
-    height="347"
-    src="https://player.vimeo.com/video/968645483?h=435b421af9"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
 <!-- #region tags=["narrative"] -->
 ### Editor
 <!-- #endregion -->
